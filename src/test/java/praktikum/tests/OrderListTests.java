@@ -13,7 +13,6 @@ import praktikum.resthandlers.apiclients.ResponseChecks;
 import praktikum.resthandlers.apiclients.OrderApiClient;
 import praktikum.resthandlers.apiclients.UserApiClient;
 
-import java.util.Collections;
 import java.util.List;
 import java.util.UUID;
 

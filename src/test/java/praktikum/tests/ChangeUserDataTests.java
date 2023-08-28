@@ -3,8 +3,6 @@ package praktikum.tests;
 import io.qameta.allure.Link;
 import io.qameta.allure.Step;
 import io.qameta.allure.junit4.DisplayName;
-import io.qameta.allure.junit4.Tag;
-import io.qameta.allure.junit4.Tags;
 import io.restassured.response.Response;
 import org.junit.After;
 import org.junit.Before;
